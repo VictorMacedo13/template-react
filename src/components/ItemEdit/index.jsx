@@ -51,7 +51,7 @@ function ItemEdit() {
             />
           </div>
 
-          <button type="submit">cadatrar</button>
+          <button type="submit">Salvar</button>
         </form>
       </>
     );
